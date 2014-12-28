@@ -6,3 +6,8 @@ Q2: How is the staging area different from the working directory and the reposit
 
 A2: It allows us to control the scope of our commits
 
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+
+A3: Always check the staging area thoroughly before committing
+
+
