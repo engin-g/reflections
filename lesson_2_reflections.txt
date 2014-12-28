@@ -10,4 +10,11 @@ Q3: How can you use the staging area to make sure you have one commit per logica
 
 A3: Always check the staging area thoroughly before committing
 
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A4: Trying new features. Parallelizing development process. Adding language support
+
+Q5: How do the diagrams help you visualize the branch structure?
+
+A5: They help greatly
 
