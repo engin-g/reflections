@@ -1,0 +1,5 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+
+A1: It copies bunch of required git files to /.git. It is how git works
+
+
