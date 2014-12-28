@@ -2,4 +2,7 @@ Q1: What happens when you initialize a repository? Why do you need to do it?
 
 A1: It copies bunch of required git files to /.git. It is how git works
 
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A2: It allows us to control the scope of our commits
 
