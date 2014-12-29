@@ -9,3 +9,11 @@ A2: Because I might have made edits to my master or other branches. And I wouldn
 Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A3: When I see a cool project that I want to experiment on, I fork it on GitHub. Also I can clone it to review code on my computer. I work with branches on local machine to add new features etc.
+
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A4: To be able to work without internet connection
+
+Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A5: It would be way harder. This way everything is structured and documented. Plus there are auto notifications.
