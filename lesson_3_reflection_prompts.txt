@@ -17,3 +17,7 @@ A4: To be able to work without internet connection
 Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A5: It would be way harder. This way everything is structured and documented. Plus there are auto notifications.
+
+Q6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A6: Package a logical piece of work and prevent the master from being corrupted with experimental stuff 
